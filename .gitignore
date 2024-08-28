@@ -1,3 +1,6 @@
 **/__pycache__/
 **/.vscode/
 **/.idea/
+
+assets/fruits-360-small/
+*.h5
